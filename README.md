@@ -130,7 +130,7 @@ GitHub: [https://github.com/abhisakh](https://github.com/abhisakh)
 
 5. **Anuj Nandy**
 
-I upgraded the project by myself to a webbased online Game.....named Fake_Finder_Webintegration(Hope you will enjoy )
+I upgraded the project by myself to a webbased online Game.....named Fake_Finder_WebAI_app(Hope you will enjoy )
 
 
 _Contributions and feedback are always welcome!_
