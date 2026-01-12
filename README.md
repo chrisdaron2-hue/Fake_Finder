@@ -119,18 +119,16 @@ fake_finder/
 ---
 
 ## 🙋‍♂️ Authors (Hackathon 2025, MasterSchool, Berlin)
-1. **Abhisakh Sarma**
-GitHub: [https://github.com/abhisakh](https://github.com/abhisakh)
+1. Elizabeth Gyamfi
+GitHub: (https://github.com/chrisdaron2-hue/)
 
 2. **Johannes Mashegwana**
 
-3. **Elizabeth Gyamfi**
+3.  **Abhisakh Sarma**
 
-4. **Henrik Horn**
+4.   **Henrik Horn**
 
 5. **Anuj Nandy**
-
-I upgraded the project by myself to a webbased online Game.....named [Fake_Finder_WebAI_app](https://github.com/abhisakh/Fake_Finder_WebAI_app)(Hope you will enjoy )
 
 
 _Contributions and feedback are always welcome!_
